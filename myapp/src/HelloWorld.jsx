@@ -1,3 +1,5 @@
+import { WhatAWonderfulday } from "./Message";
+
  export function HelloWorld(){
-   return <h2>Hello World</h2>
+   return <WhatAWonderfulday/>
 }
